@@ -1,0 +1,21 @@
+# 当前产品界面 · 0.2.30
+
+本页与仓库首页展示 0.2.30。图片来自当前源码启动的真实 Electron 页面，使用独立的临时资料、虚构文档、日程与剪贴板，不读取用户正文或剪贴板，不注册系统快捷键。
+
+| 页面 | 截图 |
+| --- | --- |
+| 随手面板 | [实时玻璃与 38 键](panel.png) |
+| 全屏键位与菜单 | [同一套玻璃控件](keyboard-menu.png) |
+| 应用启动台 | [本机应用搜索与原生图标](apps.png) |
+| 任务匣 | [任务索引与内容整理](workbench.png) |
+| Markdown | [文档编辑与分栏预览](markdown.png) |
+| 日历 | [月视图、农历与重要日期](calendar.png) |
+| 速记 | [实时背景玻璃](notes.png) |
+| 工具箱 | [工具图标与统一控件](toolbox.png) |
+| 剪贴板 | [筛选、预览与复制粘贴](clipboard.png) |
+
+面板和速记图由 Windows 原生合成器与受控背景窗口一起采集。受控背景只用于演示及验证，不包含在应用中；实际使用会模糊窗口后方的本机真实内容。其余图片捕获 Electron 页面，展示排版、图标和操作，不包含桌面合成层。
+
+玻璃在减少透明度、高对比度或不支持原生合成的系统上使用稳定底色。应用列表的名称与图标来自 Windows 开始菜单；文档、日程和文字均为虚构演示数据。
+
+设计审视参考 Damir Sokolovsky 的 [unslop](https://github.com/heydamir/unslop)（CC BY 4.0）；玻璃分层参考 [wave2234/liquid-glass-recipes](https://github.com/wave2234/liquid-glass-recipes)（MIT）。
