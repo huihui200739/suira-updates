@@ -3,7 +3,7 @@
   <h1>随序 SUIRA</h1>
   <p><strong>顺手接住，让工作继续。</strong></p>
   <p>一个快捷键，接住桌面上的截图、文字与灵感。<br>从收集、整理到下一步，让常用工具自然衔接。</p>
-  <p>Windows 11 x64 · 本地优先 · 当前版本 0.2.35</p>
+  <p>Windows 11 x64 · 本地优先 · 当前版本 0.2.36</p>
   <p><a href="https://github.com/huihui200739/suira-updates/releases/latest">下载最新版本</a> · <a href="#开始使用">开始使用</a> · <a href="CHANGELOG.md">版本更新</a> · <a href="https://github.com/huihui200739/suira-updates/issues">反馈问题</a></p>
 </div>
 
@@ -25,6 +25,8 @@
   <tr><td width="50%"><img src="docs/product/keyboard-menu.png" alt="全屏键位与统一玻璃菜单"></td><td width="50%"><img src="docs/product/apps.png" alt="带原生应用图标的启动台"></td></tr>
   <tr><td align="center"><b>全屏，保持熟悉的键位</b></td><td align="center"><b>应用，搜索后直接打开</b></td></tr>
 </table>
+
+**外观，随你选择。** 设置里可选雾白、墨夜、暖纸、松绿、午夜蓝，也能从桌面壁纸生成配色；强调色可独立跟随 Windows，玻璃浓度提供四档。所有窗口即时同步，明暗模式继续独立选择。
 
 **文字，接着处理。** 翻译和文本转换共用一个窗口，切换标签即可继续。停止输入后自动翻译，结果可以接着整理、再次翻译，也可以回到上一步。
 
@@ -53,7 +55,7 @@
 
 ## 开始使用
 
-支持 **Windows 11 x64**，当前正式版 **0.2.35**。从 [最新版本](https://github.com/huihui200739/suira-updates/releases/latest) 下载 `Suira-0.2.35-x64.exe` 并安装；已有安装版可在悬浮板三点菜单选择 **检查更新 → 下载更新 → 保存草稿并重启更新**。覆盖更新保留本机内容、键位和设置。
+支持 **Windows 11 x64**，当前正式版 **0.2.36**。从 [最新版本](https://github.com/huihui200739/suira-updates/releases/latest) 下载 `Suira-0.2.36-x64.exe` 并安装；已有安装版可在悬浮板三点菜单选择 **检查更新 → 下载更新 → 保存草稿并重启更新**。覆盖更新保留本机内容、键位和设置。
 
 从托盘双击打开面板。全局快捷键默认关闭，可在设置中主动开启并调整冲突键位。
 
