@@ -3,7 +3,7 @@
   <h1>随序 SUIRA</h1>
   <p><strong>顺手接住，让工作继续。</strong></p>
   <p>一个快捷键，接住桌面上的截图、文字与灵感。<br>从收集、整理到下一步，让常用工具自然衔接。</p>
-  <p>Windows 11 x64 · 本地优先 · 当前版本 0.2.40</p>
+  <p>Windows 11 x64 · 本地优先 · 当前版本 0.2.41</p>
   <p><a href="https://github.com/huihui200739/suira-updates/releases/latest">下载最新版本</a> · <a href="#开始使用">开始使用</a> · <a href="CHANGELOG.md">版本更新</a> · <a href="https://github.com/huihui200739/suira-updates/issues">反馈问题</a></p>
 </div>
 
@@ -34,9 +34,9 @@
 
 **下一步，顺手接上。** 识别结果、文字工具、剪贴板和钉图／速记菜单都能接着提字、翻译、追加到速记或 Markdown、生成日程草稿、钉在桌面。日程先核对再保存，Markdown 斜杠菜单也能直接截图插入。
 
-**常用工具，继续补齐。** 设置中可编排并绑定组合动作；截图放大镜支持 HEX/RGB 取色，按 Shift+C 复制并保留颜色历史，提字时也会识别二维码。文本转换加入 JSON、繁简、全半角、提取、去重排序及编解码；搜索可直接计算、换算或输入 `fy` 翻译。汇率默认关闭，AI 总结、改写、解释和写回复只在点击后发送文字，并保留处理轨迹。
+**常用工具，继续补齐。** 设置中可编排并绑定组合动作；截图放大镜采用微信式绿色十字线取色，显示坐标、HEX 与 RGB，按 Ctrl+C 复制并保留颜色历史，提字时也会识别二维码。文本转换加入 JSON、繁简、全半角、提取、去重排序及编解码；搜索可直接计算、换算或输入 `fy` 翻译。汇率默认关闭，AI 总结、改写、解释和写回复只在点击后发送文字，并保留处理轨迹。
 
-<table><tr><td width="50%"><img src="docs/product/recipes.png" alt="组合动作编辑器"></td><td><img src="docs/product/color-picker.png" alt="截图放大镜显示 HEX 和 RGB"></td></tr></table>
+<table><tr><td width="50%"><img src="docs/product/recipes.png" alt="组合动作编辑器"></td><td><img src="docs/product/color-picker.png" alt="微信式截图取色放大镜：绿色十字线与坐标、色值"></td></tr></table>
 
 [新工具使用说明](docs/new-tools.md)
 
@@ -67,7 +67,7 @@
 
 ## 开始使用
 
-支持 **Windows 11 x64**，当前正式版 **0.2.40**。从 [最新版本](https://github.com/huihui200739/suira-updates/releases/latest) 下载 `Suira-0.2.40-x64.exe` 并安装；已有安装版可在悬浮板三点菜单选择 **检查更新 → 下载更新 → 保存草稿并重启更新**。覆盖更新保留本机内容、键位和设置。
+支持 **Windows 11 x64**，当前正式版 **0.2.41**。从 [最新版本](https://github.com/huihui200739/suira-updates/releases/latest) 下载 `Suira-0.2.41-x64.exe` 并安装；已有安装版可在悬浮板三点菜单选择 **检查更新 → 下载更新 → 保存草稿并重启更新**。覆盖更新保留本机内容、键位和设置。
 
 从托盘双击打开面板。全局快捷键默认关闭，可在设置中主动开启并调整冲突键位。
 
