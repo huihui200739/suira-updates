@@ -3,7 +3,7 @@
   <h1>随序 SUIRA</h1>
   <p><strong>顺手接住，让工作继续。</strong></p>
   <p>一个快捷键，接住桌面上的截图、文字与灵感。<br>从收集、整理到下一步，让常用工具自然衔接。</p>
-  <p>Windows 11 x64 · 本地优先 · 当前版本 0.2.44</p>
+  <p>Windows 11 x64 · 本地优先 · 当前版本 0.2.45</p>
   <p><a href="https://github.com/huihui200739/suira-updates/releases/latest">下载最新版本</a> · <a href="#开始使用">开始使用</a> · <a href="CHANGELOG.md">版本更新</a> · <a href="https://github.com/huihui200739/suira-updates/issues">反馈问题</a></p>
 </div>
 
@@ -67,7 +67,7 @@
 
 ## 开始使用
 
-支持 **Windows 11 x64**，当前正式版 **0.2.44**。从 [最新版本](https://github.com/huihui200739/suira-updates/releases/latest) 下载 `Suira-0.2.44-x64.exe` 并安装；已有安装版可在悬浮板三点菜单选择 **检查更新 → 下载更新 → 保存草稿并重启更新**。覆盖更新保留本机内容、键位和设置。
+支持 **Windows 11 x64**，当前正式版 **0.2.45**。从 [最新版本](https://github.com/huihui200739/suira-updates/releases/latest) 下载 `Suira-0.2.45-x64.exe` 并安装；已有安装版可在悬浮板三点菜单选择 **检查更新 → 下载更新 → 保存草稿并重启更新**。覆盖更新保留本机内容、键位和设置。
 
 从托盘双击打开面板。全局快捷键默认关闭，可在设置中主动开启并调整冲突键位。
 
