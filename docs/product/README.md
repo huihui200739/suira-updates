@@ -13,6 +13,7 @@
 | 处理轨迹 | [内容详情中的步骤与失败恢复](trace.png) |
 | 文字工具 | [翻译与文本转换合并窗口](text-tools.png) |
 | 任务匣 | [任务索引与内容整理](workbench.png) |
+| 工作台侧边栏（0.2.44） | [展开导航](sidebar-expanded.png) · [收起为图标栏](sidebar-collapsed.png) |
 | Markdown | [文档编辑与分栏预览](markdown.png) |
 | 日历 | [月视图、农历与重要日期](calendar.png) |
 | 速记 | [实时背景玻璃](notes.png) |
