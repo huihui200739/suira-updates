@@ -3,7 +3,7 @@
   <h1>随序 SUIRA</h1>
   <p><strong>顺手接住，让工作继续。</strong></p>
   <p>一个快捷键，接住桌面上的截图、文字与灵感。<br>从收集、整理到下一步，让常用工具自然衔接。</p>
-  <p>Windows 11 x64 · 本地优先 · 当前版本 0.2.48</p>
+  <p>Windows 11 x64 · 本地优先 · 当前版本 0.2.56</p>
   <p><a href="https://github.com/huihui200739/suira-updates/releases/latest">下载最新版本</a> · <a href="#开始使用">开始使用</a> · <a href="CHANGELOG.md">版本更新</a> · <a href="https://github.com/huihui200739/suira-updates/issues">反馈问题</a></p>
 </div>
 
@@ -54,22 +54,22 @@
 
 <img src="docs/product/trace.png" alt="按内容归组的处理轨迹，展开翻译步骤查看原文、错误与恢复入口" width="100%">
 
-**写下来，再接着做。** Markdown 提供可折叠目录、各编辑模式通用的斜杠插入、格式操作、右键菜单及实时预览。速记自动保存，在真实背景玻璃上随手记录；日历集中显示农历、待办与重要日期。
+**写下来，再接着做。** Markdown 提供可折叠目录、各编辑模式通用的斜杠插入、格式操作、右键菜单及实时预览。速记自动保存，白色写作面收在圆角窗口内；剪贴板历史使用与悬浮板一致的半透明玻璃背景，点卡片就能粘贴，点右上角的图钉可保持窗口置顶。日历集中显示农历、待办与重要日期。
 
 <table>
-  <tr><td width="50%"><img src="docs/product/markdown.png" alt="Markdown 编辑与分栏预览"></td><td width="50%"><img src="docs/product/calendar.png" alt="日历月视图与待办"></td></tr>
+  <tr><td width="50%"><img src="docs/product/markdown.png" alt="Markdown 三栏编辑界面"></td><td width="50%"><img src="docs/product/calendar.png" alt="日历月视图与待办"></td></tr>
   <tr><td align="center"><b>文档，专注内容</b></td><td align="center"><b>日程，安排清楚</b></td></tr>
-  <tr><td><img src="docs/product/notes.png" alt="速记：透出实时背景的玻璃窗口"></td><td><img src="docs/product/toolbox.png" alt="彩色工具图标与统一玻璃工具箱"></td></tr>
+  <tr><td><img src="docs/product/notes.png" alt="速记：白色写作面与圆角透明边缘"></td><td><img src="docs/product/toolbox.png" alt="彩色工具图标与统一玻璃工具箱"></td></tr>
   <tr><td align="center"><b>速记，先接住想法</b></td><td align="center"><b>工具，随手可用</b></td></tr>
 </table>
 
 <img src="docs/product/clipboard.png" alt="剪贴板历史：类型筛选、内容预览与复制粘贴" width="100%">
 
-> 展示图来自当前版本的真实 Electron 页面，文档、日程和剪贴板均为独立演示数据。面板与速记的玻璃图使用受控测试背景，展示 Windows 原生实时模糊；没有嵌入静态壁纸。[截图说明](docs/product/README.md)
+> 展示图采集自真实 Electron 页面，文档、日程和剪贴板均为独立演示数据。随手面板的玻璃图使用受控测试背景，展示 Windows 原生实时模糊；没有嵌入静态壁纸。速记图展示白色写作面和透明圆角。[截图说明](docs/product/README.md)
 
 ## 开始使用
 
-支持 **Windows 11 x64**，当前正式版 **0.2.48**。从 [最新版本](https://github.com/huihui200739/suira-updates/releases/latest) 下载 `Suira-0.2.48-x64.exe` 并安装；已有安装版可在悬浮板三点菜单选择 **检查更新 → 下载更新 → 保存草稿并重启更新**。覆盖更新保留本机内容、键位和设置。
+支持 **Windows 11 x64**，当前正式版 **0.2.56**。从 [最新版本](https://github.com/huihui200739/suira-updates/releases/latest) 下载 `Suira-0.2.56-x64.exe` 并安装。已有更新入口的安装版可在悬浮板三点菜单选择 **检查更新 → 下载更新 → 保存草稿并重启更新**，无需登录 GitHub。覆盖更新保留本机内容、键位和设置。
 
 从托盘双击打开面板。全局快捷键默认关闭，可在设置中主动开启并调整冲突键位。
 
